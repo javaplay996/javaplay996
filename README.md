@@ -1,16 +1,16 @@
-## Hi there 👋
+# 毕业设计和论文辅导
+### QQ：1176508722 (支持部署、讲解、定制毕设)，欢迎您的到来
+### 6年JAVA全栈开发经验，专注计算机相关专业的毕业设计，选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt
+### Vue.JS、SpringBoot、小程序、Uniapp、Andorid、大数据、机器学习，接网站建设、小程序
 
-<!--
-**javaplay996/javaplay996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 成品源码完全免费，提供启动教程、安装包、讲解视频、二次开发教程
 
-Here are some ideas to get you started:
+### 成品搜索微信小程序：https://asoa-1305425069.cos.ap-shanghai.myqcloud.com/1848012507940261888.jpg
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. 微信扫码进入小程序，模拟搜索需要的项目名称（如旅游、图书等），找到项目编号（如T001）
+
+2. 在公众号 Designer 小郑，留言项目编号，自助下载源码。
+
+3. 回复 “教程”，获取项目教程，包括启动教程、安装包、讲解视频、二次开发教程。
+
+4. 如有问题，可以进入售后群 895271833 答疑，如群满员，请加入拒绝理由中的新群。
